@@ -1,0 +1,22 @@
+{
+  "/(dashboard)/arena/page": "/arena",
+  "/(dashboard)/c/[id]/page": "/c/[id]",
+  "/(dashboard)/chat/page": "/chat",
+  "/(dashboard)/page": "/",
+  "/(dashboard)/projects/[id]/page": "/projects/[id]",
+  "/(dashboard)/projects/page": "/projects",
+  "/(dashboard)/prompts/page": "/prompts",
+  "/(dashboard)/settings/providers/page": "/settings/providers",
+  "/(dashboard)/vault/page": "/vault",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/auth/[...nextauth]/route": "/api/auth/[...nextauth]",
+  "/api/auth/register/route": "/api/auth/register",
+  "/api/chat/route": "/api/chat",
+  "/api/test-connection/route": "/api/test-connection",
+  "/api/usage/route": "/api/usage",
+  "/favicon.ico/route": "/favicon.ico",
+  "/login/page": "/login",
+  "/page": "/",
+  "/register/page": "/register"
+}

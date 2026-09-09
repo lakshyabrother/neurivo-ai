@@ -1,0 +1,22 @@
+{
+  "/(dashboard)/arena/page": "app/(dashboard)/arena/page.js",
+  "/(dashboard)/c/[id]/page": "app/(dashboard)/c/[id]/page.js",
+  "/(dashboard)/chat/page": "app/(dashboard)/chat/page.js",
+  "/(dashboard)/page": "app/(dashboard)/page.js",
+  "/(dashboard)/projects/[id]/page": "app/(dashboard)/projects/[id]/page.js",
+  "/(dashboard)/projects/page": "app/(dashboard)/projects/page.js",
+  "/(dashboard)/prompts/page": "app/(dashboard)/prompts/page.js",
+  "/(dashboard)/settings/providers/page": "app/(dashboard)/settings/providers/page.js",
+  "/(dashboard)/vault/page": "app/(dashboard)/vault/page.js",
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/api/auth/register/route": "app/api/auth/register/route.js",
+  "/api/chat/route": "app/api/chat/route.js",
+  "/api/test-connection/route": "app/api/test-connection/route.js",
+  "/api/usage/route": "app/api/usage/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/register/page": "app/register/page.js"
+}

@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "functions": {
+    "/": {
+      "maxDuration": 60
+    },
+    "/api/chat": {
+      "maxDuration": 60
+    },
+    "/arena": {
+      "maxDuration": 60
+    },
+    "/c/[id]": {
+      "maxDuration": 60
+    },
+    "/chat": {
+      "maxDuration": 60
+    },
+    "/projects": {
+      "maxDuration": 60
+    },
+    "/projects/[id]": {
+      "maxDuration": 60
+    },
+    "/prompts": {
+      "maxDuration": 60
+    },
+    "/settings/providers": {
+      "maxDuration": 60
+    },
+    "/vault": {
+      "maxDuration": 60
+    }
+  }
+}

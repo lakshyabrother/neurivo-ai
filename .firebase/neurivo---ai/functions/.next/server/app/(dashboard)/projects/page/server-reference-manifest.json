@@ -1,0 +1,104 @@
+{
+  "node": {
+    "404b8150df0c270a8818f4524135780a2617d0bf2a": {
+      "workers": {
+        "app/(dashboard)/projects/page": {
+          "moduleId": 34095,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "deleteConversation",
+      "filename": "src/app/actions/conversations.ts"
+    },
+    "60bf18c16e02ad6bcef208d7addf4b49223a8237cd": {
+      "workers": {
+        "app/(dashboard)/projects/page": {
+          "moduleId": 34095,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "togglePinConversation",
+      "filename": "src/app/actions/conversations.ts"
+    },
+    "601e56975dd49d115fb43875af7694d8b070865327": {
+      "workers": {
+        "app/(dashboard)/projects/page": {
+          "moduleId": 34095,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "updateConversationTitle",
+      "filename": "src/app/actions/conversations.ts"
+    },
+    "006771ad95055283fb2ce405f030cc1f40d57c004f": {
+      "workers": {
+        "app/(dashboard)/projects/page": {
+          "moduleId": 34095,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "getConversations",
+      "filename": "src/app/actions/conversations.ts"
+    },
+    "40938553ffa6f864a2dda69307519b9fc376afe709": {
+      "workers": {
+        "app/(dashboard)/projects/page": {
+          "moduleId": 34095,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "getConversation",
+      "filename": "src/app/actions/conversations.ts"
+    },
+    "00d0e46854245433a46b6bb0a10b8eeb0228dcabc4": {
+      "workers": {
+        "app/(dashboard)/projects/page": {
+          "moduleId": 34095,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "getProjects",
+      "filename": "src/app/actions/projects.ts"
+    },
+    "407706236db7426fd98610802d3bad0bcd0b64e653": {
+      "workers": {
+        "app/(dashboard)/projects/page": {
+          "moduleId": 34095,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "getProject",
+      "filename": "src/app/actions/projects.ts"
+    },
+    "408383cd5fc5b3592da80dba7b368027b0f913c646": {
+      "workers": {
+        "app/(dashboard)/projects/page": {
+          "moduleId": 34095,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "deleteProject",
+      "filename": "src/app/actions/projects.ts"
+    },
+    "604d696ad09c188cd3920bc93c30b5c76b111c27ab": {
+      "workers": {
+        "app/(dashboard)/projects/page": {
+          "moduleId": 34095,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "createProject",
+      "filename": "src/app/actions/projects.ts"
+    }
+  },
+  "edge": {}
+}
